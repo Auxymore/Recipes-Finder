@@ -3,7 +3,7 @@
 This platform is for users to search the spoonacular API by ingredient. Search a recipe, and see the results in a grid format below including recipe title, ingredients, and poster image.
 
 ## Live Link:
-To be added
+https://recipefinder-react-js.herokuapp.com/
 
 ## Tech Stack:
 - React
